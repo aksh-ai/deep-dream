@@ -20,7 +20,7 @@ Refer [deep_dream.ipynb](deep_dream.ipynb) for detailed explanation of Deep Drea
 
 * Galaxy
 
-![galaxy](images/galxy_dd.png)
+![galaxy](images/galaxy_dd.png)
 
 * Valak
 
